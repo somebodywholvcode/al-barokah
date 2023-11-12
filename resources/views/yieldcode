@@ -1,0 +1,6 @@
+@extends('layouts.sidebarlayout')
+@section('judulhead', 'Dashboard')
+@section('deskripsiheader', '')
+@section('isi')
+
+@endsection
